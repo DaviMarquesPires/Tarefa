@@ -1,5 +1,3 @@
-from datetime import datetime
-
 from tarefas.models.database import Database
 
 
